@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
-title: Pepper grower
-description: Welcome to my growing diary
-show_downloads: false
+title: "Pepper grower"
+description: "Welcome to my growing diary"
+show_downloads: "true"
